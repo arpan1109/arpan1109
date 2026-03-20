@@ -32,19 +32,16 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/arpan-pal-2k04" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/Arpan_2k04" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/oki_19870102" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" height="40" />
+  <a href="https://www.codechef.com/users/loki_19870102" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   <a href="https://dev.to/arpan1109" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" />
-  </a>
-  <a href="mailto:palarpan11092004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </p>
 
