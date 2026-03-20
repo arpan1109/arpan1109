@@ -30,9 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 🐍 Contribution Graph Snake
+### 🐍 Contribution Graph 
 
 <div align="center">
   <picture>
