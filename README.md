@@ -29,6 +29,24 @@
 </p>
 
 ---
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://linkedin.com/in/arpan-pal-2k04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://leetcode.com/Arpan_2k04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/oki_19870102" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" height="40" />
+  </a>
+  <a href="https://dev.to/arpan1109" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" />
+  </a>
+  <a href="mailto:palarpan11092004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
+</p>
 
 ### 🐍 Contribution Graph 
 
