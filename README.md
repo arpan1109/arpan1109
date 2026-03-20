@@ -62,14 +62,3 @@
 </div>
 
 ---
-
-### 🌐 Socials & Coding Profiles
-<p align="left">
-  <a href="https://linkedin.com/in/arpan-pal-2k04" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
-
-<p align="left">
-  <a href="https://leetcode.com/Arpan_2k04" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_ID" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GFG" /></a>
-</p>
