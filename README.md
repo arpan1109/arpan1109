@@ -28,6 +28,7 @@
   </a>
 </p>
 
+[![An image of @arpan1109's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan1109)](https://holopin.io/@arpan1109)
 ---
 ### 🌐 Connect with me: 
 <p align="center">
@@ -56,9 +57,11 @@
 </div>
 
 <br>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpan1109&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpan1109&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan1109&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpan1109&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
